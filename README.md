@@ -1,2 +1,1 @@
-#ReadMe
-VSCode test!!
+This repository contains a multitude of beginner python-centered projects.
